@@ -18,7 +18,12 @@ export default function RootLayout({
   return (
     <>
       <html lang="en" suppressHydrationWarning>
-        <head />
+        <head> 
+        <link
+          href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap"
+          rel="stylesheet"
+        />
+        </head>
         <body>
           <ThemeProvider
             attribute="class"

@@ -6,10 +6,10 @@ import Tos from "@/components/tos";
 export default function Home() {
 
   const tos_text = "🔮 Welcome, adventurer, to the Temple of Scripts! Here you'll find magical scripts to optimize your programming tasks... Consult the docs now to unlock their power... 🪄"
+  
   return (
     <>
       <Nav />
-      
       <Tos />
 
       <div className="type-eff">

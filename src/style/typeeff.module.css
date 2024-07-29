@@ -3,7 +3,6 @@
     margin: 10px auto;
     font-size: 1rem;
     color: white;
-    font-family: fantasy;
     @apply text-black dark:text-white;
-
+    font-family: 'ZCOOL XiaoWei', sans-serif;
 }
