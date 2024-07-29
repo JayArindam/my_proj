@@ -1,0 +1,24 @@
+.tos-top {
+    margin-top: 5rem;
+}
+
+.tos-heading {
+    padding-left: 5rem;
+    color: orange;
+    font-size: 1.9rem;
+    font-family: fantasy;
+}
+
+.tos-slogan {
+    padding-left: 5rem;
+    color: orange;
+    font-size: 1.1 rem;
+    font-family: fantasy;
+}
+
+.hori {
+    background-color: orange;
+    border: none;
+    height: 3px;
+    margin: 1.5rem 10rem 0rem 5rem;
+}
